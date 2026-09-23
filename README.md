@@ -1,2 +1,6 @@
-# SC_302_Documentacion_MN_Grupo_5
+# SC\_302\_Documentacion\_MN\_Grupo\_5
+
+
+
+### Esta es mi primera práctica con	 GitHub.
 
